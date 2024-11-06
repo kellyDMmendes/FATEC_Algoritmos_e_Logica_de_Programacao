@@ -1,6 +1,6 @@
 # Totalização simples de vendas de produtos
 
-[Programa](https://github.com/kellyDMmendes/fatec_algoritmos_e_logica_de_programacao/tree/main/fatec_algoritmos_e_logica_de_programacao-main)
+[Ir para: Totalização simples de vendas de produtos](https://github.com/kellyDMmendes/fatec_algoritmos_e_logica_de_programacao/tree/main/fatec_algoritmos_e_logica_de_programacao-main)
 
 **Descrição do Projeto**\
 Este projeto estará baseado na leitura de um arquivo texto de entrada contendo código, quantidade e valor unitário de produtos 
